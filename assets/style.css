@@ -1,0 +1,51 @@
+.showimage {
+    width: 33%; 
+    height: 100%;
+    border: 1px solid black;
+    background-color: #f1f1f1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.imagen{
+    width: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.6;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: black;
+    padding-top: 10px;
+}
+
+button{
+    background-color: #1f7221;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.6;
+}
